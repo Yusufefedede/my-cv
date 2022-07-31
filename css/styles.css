@@ -1,0 +1,22 @@
+h3 {
+    color: #F15412;
+}
+
+body {
+    background-color: #FCF8E8;
+}
+
+h4 {
+    color: #F15412;
+}
+
+hr {
+    border-left-style: none;
+    border-right-style: none;
+    border-bottom-style: none;
+    border-top-width: thick;
+    border-top-style: dotted;
+    border-color: gray;
+    height: 5px;
+    width: 5%;
+}
