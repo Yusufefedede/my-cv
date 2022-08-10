@@ -3,13 +3,13 @@ h3 {
 }
 
 body {
-    background-color: #FCF8E8;
+    background-color: #EDFFEC;
+    text-align: justify;
 }
 
 h4 {
     color: #F15412;
 }
-
 hr {
     border-left-style: none;
     border-right-style: none;
